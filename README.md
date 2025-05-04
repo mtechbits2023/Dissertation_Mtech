@@ -1,4 +1,3 @@
-# TestGit
-This is to get familiar with Git
+# Personalized Recommendation System using Graph-Based User Modeling
 
-THis is my first git project 
+- https://arxiv.org/pdf/2403.03952
